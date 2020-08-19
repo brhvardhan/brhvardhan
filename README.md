@@ -5,13 +5,13 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Python, Angular, Phantom, Ansible
-- 🌱 I’m currently learning Deep Learning
-- 👯 I’m looking to collaborate on Any Open source Project that makes impact
--->
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m a Full Stack developer at VISA
+- 🌱 I’m good at Python, Java, C
+- 🔭 I'm also good in Flask, Fast, Django , DRF, Angular
+- 🔭 I'm also aware of Ansible, Verodin, Splunk, Sumologic
+- 👯 I’m looking for bigger projects which can make an impact
+- 🤔 I’m looking for help with nothing, I am here to help you
+- 💬 Ask me about any techinacal questions, I love debates on technical items.
+- 📫 How to reach me: Drop an email to ramaharshavardhanbysani@gmail.com
+- ⚡ Life Principle: Never give up.
+
