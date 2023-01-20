@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a Developer at Swiggy.(Ex-Visa)
 - 🌱 I’m good at Python, Java, C, GO, Matlab
-- 🔭 I'm also good in Flask, Fast, Django , DRF, Angular
+- 🔭 I'm also good in Flask, Fast, Django, DRF, Angular
 - 🔭 I'm also aware of Ansible, Verodin, Splunk, Sumologic
 - 👯 I’m looking for bigger projects which can make an impact
 - 💬 Ask me about any technical questions, I love debates on technical items.
